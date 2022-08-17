@@ -243,12 +243,12 @@ Connect a capacitor of 220nF to GPIO36. The other end of the capacitor is your a
 
              +3.3V
                |                             ________ GPIO15
-              | | 4.7K                      |
+              | | 10K                       |
               | |                           |
                |                            |
  Audio --||---- ----->GPIO36               \
        220nF   |                            |
-              | | 4..7K                     |
+              | | 10K                       |
               | |                           |
                |                            |
               gnd                          gnd
